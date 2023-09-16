@@ -1,0 +1,6 @@
+.highlight {
+  color: orange;
+}
+li:hover {
+  cursor: pointer;
+}
